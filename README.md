@@ -5,7 +5,7 @@ This is the official website codebase for Besu Solutions, built with **React**, 
 ## Project Structure
 
 ```
-bespoke-site/
+Besu-Tech/
 ├── src/
 │   ├── components/
 │   │   ├── Home/       # Home page specific sections
